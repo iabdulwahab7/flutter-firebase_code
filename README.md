@@ -1,7 +1,12 @@
 # firebase_firestore
 
-A new Flutter project.
-
+# Imporatant commands and guide lines
+{TERMINAL
+Go to the project folder in the terminal.
+Mac command:  keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
+Windows command:  keytool -list -v -keystore "C:\Users\bilal\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+Linux keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
+}
 ## Getting Started
 
 This project is a starting point for a Flutter application.
