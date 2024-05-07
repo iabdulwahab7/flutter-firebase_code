@@ -6,14 +6,14 @@
 
 
 # Getting Started
-Used basic concepts of designs and firebase/firestore functions.
+Used basic concepts of designs and firebase/firestore functionalities.
 - Login and SignUp Authentications
 - Login with number authentication
 - Firebase real-time database (CRUD Operations)
 - Firestore database (CRUD Operations)
 - forgot password reset
 --------------------------------------------------------------------
-Following are the images with corresponding view
+Following are the images with the corresponding view
 
 - Login
 ![Screenshot_1715088387](https://github.com/iabdulwahab7/flutter-firebase_code/assets/76598467/29415fc4-8796-4c32-910d-e99734e94156)
@@ -30,5 +30,8 @@ Following are the images with corresponding view
 - To edit or delete
 ![Screenshot_1715088430](https://github.com/iabdulwahab7/flutter-firebase_code/assets/76598467/9ca61e05-2c9e-49b7-bd10-e55922783295)
 
-- To add data through showDialog
+- To update data through showDialog
 ![Screenshot_1715088440](https://github.com/iabdulwahab7/flutter-firebase_code/assets/76598467/6ddd5202-fc18-4cbd-b8d1-9232cef6e714)
+
+-To add data
+![Screenshot_1715088450](https://github.com/iabdulwahab7/flutter-firebase_code/assets/76598467/39114c85-f394-4171-8928-8b498b77e694)
