@@ -1,19 +1,19 @@
 # firebase_firestore
 
-### Imporatant guide lines
-  # You have to add sha1 and sha256 keys in firebase
-  # Add permissions for camera and gallery access and change rules in firebase storage if need
-  # 
+# Imporatant guide lines
+  ### You have to add sha1 and sha256 keys in firebase
+  ### Add permissions for camera and gallery access and change rules in firebase storage if need 
 
 
-## Getting Started
+# Getting Started
 Used basic concepts of designs and firebase/firestore functions.
 - Login and SignUp Authentications
 - Login with number authentication
 - Firebase real-time database (CRUD Operations)
 - Firestore database (CRUD Operations)
-
-- Following are the images with corresponding view
+- forgot password reset
+--------------------------------------------------------------------
+Following are the images with corresponding view
 
 - Login
 ![Screenshot_1715088387](https://github.com/iabdulwahab7/flutter-firebase_code/assets/76598467/29415fc4-8796-4c32-910d-e99734e94156)
