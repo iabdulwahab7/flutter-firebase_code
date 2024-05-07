@@ -1,8 +1,10 @@
 # firebase_firestore
 
 # Imporatant guide lines
-  ### You have to add sha1 and sha256 keys in firebase
-  ### Add permissions for camera and gallery access and change rules in firebase storage if need 
+  ### First download and install node and setup environmental paths
+  ### Connect app with firebase for ios and android
+  ### You have to add sha1 and sha256 keys in firebase for mobile number authentication
+  ### Add permissions for camera and gallery access and change rules in Firebase storage if need 
 
 
 # Getting Started
