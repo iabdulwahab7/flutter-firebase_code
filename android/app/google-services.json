@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183655944920",
+    "project_id": "fir-firestore-3c1c4",
+    "storage_bucket": "fir-firestore-3c1c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183655944920:android:622f8a00c01d277ffbfdad",
+        "android_client_info": {
+          "package_name": "com.example.firebase_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT5kZ6X-5w7yb9SH4iDgZ-EwwDO9qBlWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183655944920:android:de4d682f58b5c3d6fbfdad",
+        "android_client_info": {
+          "package_name": "com.gstech.firebase_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT5kZ6X-5w7yb9SH4iDgZ-EwwDO9qBlWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
